@@ -16,7 +16,7 @@ function Header() {
                     </div>                                    
                 </div>
                 { /* Sub-Header */}
-                <div className="flex flex-col md:flex-row items-center md:items-center justify-center md:justify-center h-1/4 md:h-14 my-2 md:my-0 w-screen p-3 space-y-4 md:space-y-0 md:space-x-24 py-20 md:py-0">
+                <div className="flex flex-col md:flex-row columns-4 items-center md:items-center justify-center h-1/4 md:h-14 md:space-x-20">
                     <span className="flex space-x-3">
                         <BeakerIcon className="h-5 w-5"/>
                         <p><a href="" target="_blank" rel="noreferrer noopener">Projects</a></p>
